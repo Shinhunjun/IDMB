@@ -1,0 +1,1 @@
+insert into course values ('CS-001', 'Weekly Seminar', 'Comp. Sci.', '2');

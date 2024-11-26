@@ -1,0 +1,1 @@
+insert into section values ('CS-001', '1', 'Spring', '2022', NULL, NULL, NULL)
